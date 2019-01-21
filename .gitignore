@@ -1,3 +1,5 @@
 mysql/mysql_data
 
 mongodb/mongo_data
+
+elasticsearch/esdata*
