@@ -14,3 +14,7 @@ docker --version
 docker-compose --version
 
 # clone repository
+# git user information
+git clone https://github.com/sophiedophie/docker-compose-example.git
+cd docker-compose-example
+docker-compose up --build -d
